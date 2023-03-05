@@ -21,3 +21,35 @@ header {
     align-items: center;
     
 }
+
+img {
+    height: 100px;
+    width: 200px;
+}
+
+@media screen and (min-width: 600px) {
+    #about {
+        display:flex;
+        
+    }
+    #work {
+        display:flex;
+    }
+    #contact{
+        display:flex;
+    }
+    .leftsection {
+        width: 30%;
+    }
+    .rightsection {
+        width:70%;
+    }
+    ul {
+        display:flex;
+        list-style: none;
+        padding: 0px;
+    }
+    li {
+        padding: 10px;
+    }
+}

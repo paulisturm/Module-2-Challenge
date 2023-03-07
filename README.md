@@ -1,1 +1,1 @@
-# Module-2-Challenge
+In this project I will be building a portfolio for potential employers. Employers will be able to see a picture of myself as well as sections about myself, my work, and my contact information. I will be adding navigation links at the top of the page to immediately move to the corresponding section. My first application will have a link to my project.

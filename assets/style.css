@@ -23,8 +23,15 @@ header {
 }
 
 img {
-    height: 100px;
-    width: 200px;
+    height: 250px;
+    width: 400px;
+}
+.leftsection {
+   padding-top: 50px;
+}
+
+.rightsection {
+    padding-top: 50px;
 }
 
 @media screen and (min-width: 600px) {
